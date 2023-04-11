@@ -1,0 +1,10 @@
+.container{
+    background-color: rgb(164, 142, 142);
+    width: 550px;
+    height: 550px;
+}
+
+.mosquito{
+    position: relative;
+    height: 50px;
+}
